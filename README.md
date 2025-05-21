@@ -11,7 +11,6 @@ A pixel-perfect mobile app UI built with React and Tailwind CSS. Includes Home, 
 ## Tech Stack:
 - **React**: Frontend library for building the user interface.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
-- 
 
 ## ⚙️ Installation & Setup
 
